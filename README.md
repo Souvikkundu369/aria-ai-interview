@@ -2,7 +2,7 @@
 
 > **Replace 40 recorded calls with one Gemini-scored summary. Hiring managers spend minutes, not hours.**
 
-ARIA is a production AI interview platform built for a 22-outlet entertainment chain's recruitment pipeline. Candidates record answers to structured questions in their own time. Gemini LLM evaluates every response against a scoring rubric and produces a concise scorecard — so hiring managers read a summary instead of sitting through hours of recordings.
+ARIA is a production AI interview platform built for a 25+-outlet entertainment chain's recruitment pipeline. Candidates record answers to structured questions in their own time. Gemini LLM evaluates every response against a scoring rubric and produces a concise scorecard — so hiring managers read a summary instead of sitting through hours of recordings.
 
 Live deployment: `jusjumpin-hr-interviews.netlify.app`
 
@@ -10,7 +10,7 @@ Live deployment: `jusjumpin-hr-interviews.netlify.app`
 
 ## The problem it solves
 
-Before ARIA, every candidate interview meant scheduling a live call, recording it, and then watching back 20–40 minutes of video — for every single applicant. With seasonal hiring across 22 outlets, that's not a process, it's a bottleneck.
+Before ARIA, every candidate interview meant scheduling a live call, recording it, and then watching back 20–40 minutes of video — for every single applicant. With seasonal hiring across 25+ outlets, that's not a process, it's a bottleneck.
 
 ARIA makes interviews asynchronous and AI-scored. Candidates do it when they're ready. Managers get a structured scorecard. The whole review cycle compresses from days to minutes.
 
