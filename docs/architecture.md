@@ -19,7 +19,7 @@
 ## Key design decisions
 
 **Why async interviews?**  
-Live scheduling across a 22-outlet chain with rotating shifts is a coordination nightmare. Async removes that entirely. Completion rates are higher when candidates choose their own time.
+Live scheduling across a 25+-outlet chain with rotating shifts is a coordination nightmare. Async removes that entirely. Completion rates are higher when candidates choose their own time.
 
 **Why Gemini Flash?**  
 Speed and cost. Flash provides fast, cheap scoring with sufficient quality for structured rubric evaluation. Reserved for audio/video analysis tasks where the model needs multimodal capability.
