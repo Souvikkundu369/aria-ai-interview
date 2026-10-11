@@ -5,7 +5,7 @@
 - **Frontend + API:** Netlify (SPA + Serverless Functions)
 - **AI:** Google Gemini API (`gemini-flash-latest`)
 - **Storage:** Google Drive (recordings, CVs)
-- **Live URL:** `jusjumpin-hr-interviews.netlify.app`
+- **Status:** live in production (internal tool; URL not published)
 
 ## Scoring pipeline
 

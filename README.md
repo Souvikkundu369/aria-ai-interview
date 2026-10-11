@@ -4,7 +4,7 @@
 
 ARIA is a production AI interview platform built for a 25+-outlet entertainment chain's recruitment pipeline. Candidates record answers to structured questions in their own time. Gemini LLM evaluates every response against a scoring rubric and produces a concise scorecard — so hiring managers read a summary instead of sitting through hours of recordings.
 
-Live deployment: `jusjumpin-hr-interviews.netlify.app`
+Status: live in production.
 
 ---
 
@@ -110,6 +110,6 @@ The candidate side is a separate lightweight static site (`interview.html` + a s
 
 ## Status
 
-Currently live in production at `jusjumpin-hr-interviews.netlify.app`. Used for frontline hiring across multiple outlet locations.
+Currently live in production. Used for frontline hiring across multiple outlet locations.
 
 **Tech:** `JavaScript` · `Node.js` · `Netlify` · `Gemini LLM` · `Google Drive API`
